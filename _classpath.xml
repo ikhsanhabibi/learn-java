@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Call by Value and Reference"/>
+	<classpathentry kind="src" path="Class and Instances Variable"/>
+	<classpathentry kind="src" path="Class and Instances Variable 2"/>
+	<classpathentry kind="src" path="Class and Instances Method"/>
+	<classpathentry kind="src" path="Encapsulaton"/>
+	<classpathentry kind="src" path="Inheritance"/>
+	<classpathentry kind="src" path="Inheritance Example"/>
+	<classpathentry kind="src" path="Inheritance Example (Agregation)"/>
+	<classpathentry kind="src" path="Polymorphism"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
